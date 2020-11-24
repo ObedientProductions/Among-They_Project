@@ -1,2 +1,2 @@
 # Thing
-SOMETHING
+Hello
